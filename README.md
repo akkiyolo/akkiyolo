@@ -90,7 +90,7 @@
 
 ## ✍️ Featured Blogs
 
-- Coming soon... *(Maybe share your AI journey, tutorials, or insights on Medium or Hashnode)*
+- Coming soon... 
 
 ---
 
