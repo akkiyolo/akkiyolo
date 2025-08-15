@@ -25,7 +25,7 @@
 
 - 🌱 Currently learning **Machine Learning, Deep Learning, and NLP**
 - 🔭 Working on AI-based projects involving **Python, TensorFlow, and OpenCV**
-- 💻 All my projects: [My Portfolio Website](https://akkionweb.netlify.app/)
+- 💻 All my projects: [My Portfolio Website](https://akkiyolo.vercel.app/)
 - ✍️ Exploring the world of blogging & AI research
 - 📫 Reach me at: **akshatshukla069@gmail.com**
 
