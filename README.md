@@ -18,11 +18,11 @@ Computer Science undergrad diving into AI, cybersecurity, and blockchain. With a
 
 ## Tech Stack
 
-**AI/ML:** Python • TensorFlow • PyTorch • OpenCV • Scikit-learn • Pandas • NumPy
+**AI/ML:** Python • TensorFlow • PyTorch • OpenCV • Scikit-learn • Data Science
 
-**Development:** C++ • JavaScript • HTML/CSS • Django • Flutter • MySQL
+**Development:** C++ • JavaScript • HTML/CSS • Flask • FastAPI • MySQL
 
-**Tools:** Git • Linux • Jupyter • VS Code
+**Tools:** Git • Linux • Jupyter • Cursor • Unity • WixStudio
 
 ---
 
