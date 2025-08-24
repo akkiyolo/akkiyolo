@@ -56,7 +56,7 @@ Full-stack campus information platform with AI-powered recommendation system
 **WikiGalaxy**  
 Intelligent information summarization agent leveraging Wikipedia's vast knowledge base
 
-*Explore more at [my portfolio](https://akkiyolo.vercel.app/)*
+*Explore more at [portfolio](https://akkiyolo.vercel.app/)*
 
 ---
 
