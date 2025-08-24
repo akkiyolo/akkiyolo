@@ -1,6 +1,6 @@
-# Hi there, I'm Akshat
+# Hi folks, I'm Akki
 
-**Aspiring AI Engineer • Developer • Continuous Learner**
+**Aspiring AI Engineer • Developer • Web Designer**
 
 Computer Science undergrad diving into AI, cybersecurity, and blockchain. With a knack for spotting trends and building innovative projects, I'm set to make waves in the tech world!
 
@@ -8,11 +8,11 @@ Computer Science undergrad diving into AI, cybersecurity, and blockchain. With a
 
 ## What I'm up to
 
-- Diving deep into **Machine Learning & Deep Learning**
+- Learning **Machine Learning & Deep Learning**
 - Experimenting with **Computer Vision** and **NLP** projects
-- Building AI-powered solutions with **Python**, **TensorFlow**, and **PyTorch**
+- Exploring **Python**, **Pytorch**, and **Scikit-Learn**
 - Sharing knowledge through blogging and open-source contributions
-- Pursuing excellence in AI engineering
+- Building algorithms that learn, adapt, and evolve autonomously
 
 ---
 
