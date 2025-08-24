@@ -2,7 +2,7 @@
 
 **Aspiring AI Engineer • Developer • Continuous Learner**
 
-I'm passionate about artificial intelligence and its potential to solve real-world problems. Currently exploring the depths of machine learning, deep learning, and natural language processing while building projects that make a difference.
+Computer Science undergrad diving into AI, cybersecurity, and blockchain. With a knack for spotting trends and building innovative projects, I'm set to make waves in the tech world!
 
 ---
 
