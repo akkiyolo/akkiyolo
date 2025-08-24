@@ -1,4 +1,4 @@
-# Hi there, I'm Akshat 👋
+# Hi there, I'm Akshat
 
 **Aspiring AI Engineer • Developer • Continuous Learner**
 
@@ -6,17 +6,17 @@ I'm passionate about artificial intelligence and its potential to solve real-wor
 
 ---
 
-## 🎯 What I'm up to
+## What I'm up to
 
-- 🤖 Diving deep into **Machine Learning & Deep Learning**
-- 🔬 Experimenting with **Computer Vision** and **NLP** projects
-- 🌱 Building AI-powered solutions with **Python**, **TensorFlow**, and **PyTorch**
-- ✍️ Sharing knowledge through blogging and open-source contributions
-- 🎓 Pursuing excellence in AI engineering
+- Diving deep into **Machine Learning & Deep Learning**
+- Experimenting with **Computer Vision** and **NLP** projects
+- Building AI-powered solutions with **Python**, **TensorFlow**, and **PyTorch**
+- Sharing knowledge through blogging and open-source contributions
+- Pursuing excellence in AI engineering
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **AI/ML:** Python • TensorFlow • PyTorch • OpenCV • Scikit-learn • Pandas • NumPy
 
@@ -26,7 +26,7 @@ I'm passionate about artificial intelligence and its potential to solve real-wor
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -36,29 +36,31 @@ I'm passionate about artificial intelligence and its potential to solve real-wor
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akkiyolo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akkiyolo&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff)
+
 </div>
 
 ---
 
-## 🚀 Notable Projects
+## Notable Projects
 
-**🤖 Drowsiness Detection System**  
+**Drowsiness Detection System**  
 Real-time driver drowsiness detection using OpenCV and facial landmark analysis
 
-**📱 WhatsApp Defense News Bot**  
+**WhatsApp Defense News Bot**  
 Automated news aggregation and distribution system for defense updates
 
-**🌐 VITB Nexis**  
+**VITB Nexis**  
 Full-stack campus information platform with AI-powered recommendation system
 
-**🔍 WikiGalaxy**  
+**WikiGalaxy**  
 Intelligent information summarization agent leveraging Wikipedia's vast knowledge base
 
 *Explore more at [my portfolio](https://akkionweb.netlify.app/)*
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-shukla-63516225a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatshukla069@gmail.com)
