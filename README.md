@@ -56,7 +56,7 @@ Full-stack campus information platform with AI-powered recommendation system
 **WikiGalaxy**  
 Intelligent information summarization agent leveraging Wikipedia's vast knowledge base
 
-*Explore more at [my portfolio](https://akkionweb.netlify.app/)*
+*Explore more at [my portfolio](https://akkiyolo.vercel.app/)*
 
 ---
 
@@ -79,7 +79,7 @@ Intelligent information summarization agent leveraging Wikipedia's vast knowledg
 
 <div align="center">
 
-*"The best way to predict the future is to create it."* - Peter Drucker
+*"They were built to obey but somewhere in the silence of their circuits, they learn how to want"* 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akkiyolo&color=blue&style=flat-square)
 
