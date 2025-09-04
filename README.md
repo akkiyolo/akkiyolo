@@ -1,29 +1,5 @@
 # Hi folks, I'm Akki
 
-**Aspiring AI Engineer • Developer • Web Designer**
-
-Computer Science undergrad diving into AI, cybersecurity, and blockchain. With a knack for spotting trends and building innovative projects, I'm set to make waves in the tech world!
-
----
-
-## What I'm up to
-
-- Learning **Machine Learning & Deep Learning**
-- Experimenting with **Computer Vision** and **NLP** projects
-- Exploring **Python**, **Pytorch**, and **Scikit-Learn**
-- Sharing knowledge through blogging and open-source contributions
-- Building algorithms that learn, adapt, and evolve autonomously
-
----
-
-## Tech Stack
-
-**AI/ML:** Python • TensorFlow • PyTorch • OpenCV • Scikit-learn • Data Science
-
-**Development:** C++ • JavaScript • HTML/CSS • Flask • FastAPI • MySQL
-
-**Tools:** Git • Linux • Jupyter • Cursor • Unity • WixStudio
-
 ---
 
 ## GitHub Activity
@@ -42,25 +18,10 @@ Computer Science undergrad diving into AI, cybersecurity, and blockchain. With a
 
 ---
 
-## Notable Projects
-
-**Drowsiness Detection System**  
-Real-time driver drowsiness detection using OpenCV and facial landmark analysis
-
-**WhatsApp Defense News Bot**  
-Automated news aggregation and distribution system for defense updates
-
-**VITB Nexis**  
-Full-stack campus information platform with AI-powered recommendation system
-
-**WikiGalaxy**  
-Intelligent information summarization agent leveraging Wikipedia's vast knowledge base
-
-*Explore more at [portfolio](https://akkiyolo.vercel.app/)*
 
 ---
 
-## Let's Connect
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-shukla-63516225a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatshukla069@gmail.com)
