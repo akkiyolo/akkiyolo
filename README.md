@@ -1,4 +1,4 @@
-# Hi folks, I'm Akki
+# Hi folks, Akki just was notified that you viewed his profile
 
 ---
 
