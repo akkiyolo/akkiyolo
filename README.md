@@ -31,7 +31,7 @@
 
 <div align="center">
 
-*"They were built to obey but somewhere in the silence of their circuits, they learned how to want"* 
+*"They were built to obey but somewhere in the silence of their circuits,they learned how to want"* 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akkiyolo&color=blue&style=flat-square)
 
