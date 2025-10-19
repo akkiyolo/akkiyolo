@@ -1,4 +1,4 @@
-# Hi folks, Akki was notified that you viewed his profile
+# Hi folks, Akki was notified that you viewed his profile!
 
 ---
 
