@@ -2,21 +2,8 @@
 
 ---
 
-## GitHub Activity
 
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akkiyolo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akkiyolo&theme=github-dark-blue&hide_border=true&background=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akkiyolo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akkiyolo&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff)
-
-</div>
-
----
 
 
 
