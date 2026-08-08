@@ -32,7 +32,7 @@
 root@latveria:~$ cat about.txt
 ```
 
-> Computer Science Undergrad.
+> Computer Science Undergrad | Wanna be AI/ML engineer
 
 ---
 
