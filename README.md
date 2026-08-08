@@ -34,7 +34,7 @@ root@latveria:~$ cat about.txt
 
 ---
 
-## `> arsenal --list`
+## `> shit i deal with --list`
 
 ```bash
 root@latveria:~$ ls -la /doom/stack/
