@@ -146,7 +146,7 @@ root@latveria:~$ ping the_social_life
 
 ```
 root@latveria:~$ shutdown -h now
-       "if it works on my machine, fuck everyone else" 
+>  "if it works on my machine, fuck everyone else" 
 ```
 
 </div>
