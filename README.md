@@ -1,261 +1,173 @@
 <div align="center">
 
 ```
-�══════════════════════════════════════════════════════════════════════════╗
+╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-�    ██████╗  ██████╗  ██████� ████████╗ ██████╗ ██████╗                   ║
-║    ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝██�═══██╗██╔══██╗                  ║
-║    ██║  ██║██║   ██║██�   ██║   ██║   ██║   ██║██████╔╝                  ║
-║    ██║  ██║██║   ██║██║   ██�   ██║   ██║   ██║██╔══██╗                  ║
-║    ██████╔╝╚██████╔╝╚██████╔╝   ██║   ╚██████╔╝██║  ██║                  ║
-�    ╚═════╝  ╚═════╝  ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝                  ║
+║   █████╗ ██╗  ██╗██╗  ██╗██╗    ██╗   ██╗ ██████╗ ██╗      ██████╗       ║
+║  ██╔══██╗██║ ██╔╝██║ ██╔╝██║    ╚██╗ ██╔╝██╔═══██╗██║     ██╔═══██╗      ║
+║  ███████║█████╔╝ █████╔╝ ██║     ╚████╔╝ ██║   ██║██║     ██║   ██║      ║
+║  ██╔══██║██╔═██╗ ██╔═██╗ ██║      ╚██╔╝  ██║   ██║██║     ██║   ██║      ║
+║  ██║  ██║██║  ██╗██║  ██╗██║       ██║   ╚██████╔╝███████╗╚██████╔╝      ║
+║  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝       ╚═╝    ╚═════╝ ╚══════╝ ╚═════╝       ║
 ║                                                                          ║
-║                  DOOM v2.1.66 [LATVERIAN KERNEL BUILD]                   ║
-║           Sovereignty. Sorcery. Systems Engineering.                      ║
+║              SOVEREIGN OF LATVERIA v2.1.66 [DOOM KERNEL BUILD]           ║
+║              Agentic Systems. MLOps. Full-Stack Dominion.                ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=root%40latveria%3A~%24+whoami;Doom+does+not+debug.+Doom+corrects+reality.;root%40latveria%3A~%24+status;Building+agentic+systems.+Deploying+dominion.;root%40latveria%3A~%24+echo+%24MOTTO;%22They+were+built+to+obey%2C+but+in+the+silence...%22" alt="Typing SVG" />
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge" height="4"/>
+</p>
+
+## `> whoami`
+
+```bash
+root@latveria:~$ cat about.txt
 ```
-[ root@latveria:~ ]$ whoami
-> Victor Von Doom — Sovereign of Latveria, Architect of Agents
-[ root@latveria:~ ]$ ./initialize_dominion.sh
-> Booting the iron will...
-> Loading the iron mask......................... [ OK ]
-> Spinning up the iron gauntlets................ [ OK ]
-> Loading the neural cortex (doombot-net v2.1).. [ OK ]
-[ root@latveria:~ ]$ _
+
+> Final-year CS undergrad. Building toward a **Forward Deployed AI Engineer** role.
+> Ruler of my own stack — agentic AI systems, MLOps pipelines, full-stack backend engineering.
+> Doom does not ask permission. Doom ships.
+
+---
+
+## `> arsenal --list`
+
+```bash
+root@latveria:~$ ls -la /doom/stack/
 ```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14)
+![LangGraph](https://img.shields.io/badge/-LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=39FF14)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=39FF14)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=39FF14)
+![Groq](https://img.shields.io/badge/-Groq-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzM5RkYxNCI+PC9zdmc+&logoColor=39FF14)
+![Gemini](https://img.shields.io/badge/-Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=39FF14)
+![Mistral](https://img.shields.io/badge/-Mistral-000000?style=for-the-badge&logo=mistralai&logoColor=39FF14)
 
 </div>
 
 ---
 
-## `cat ~/about.md`
+## `> conquered_territories --pinned`
 
-```markdown
-# Subject: akkiyolo
-# Clearance: ROYAL
-
-Final-year Computer Science undergraduate, forging the architecture
-of tomorrow's intelligent systems. Doom's gaze has turned toward the
-role of Forward Deployed AI Engineer — deploying autonomous agents
-into production, where mere mortals tremble.
-
-## Active_Domains:
-  -> agentic_ai_systems     LangGraph orchestrations, multi-agent pipelines
-  -> mlops                  Notebook to productionized inference
-  -> full_stack_backend     Async FastAPI, PostgreSQL, containers
-  -> cloud_infrastructure   AWS (ECR/EC2/S3), GitHub Actions CI/CD
-
-[ STATUS: Latveria does not ask "what stack?". Latveria asks "what dominion?". ]
+```bash
+root@latveria:~$ git log --oneline --domains
 ```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟢 `Agentic-Blog-App`
+Production-grade FastAPI blog forged with three ruling agents — LangGraph draft assistant, auto-tagging, and post-level Q&A. Async PostgreSQL, JWT/Argon2 auth, S3 media, Alembic migrations.
+
+`Python` `FastAPI` `LangGraph` `PostgreSQL` `AWS S3`
+
+[**→ inspect the dominion**](https://github.com/akkiyolo/Agentic-Blog-App)
+
+</td>
+<td width="50%" valign="top">
+
+### 🟢 `networksecurity`
+End-to-end MLOps pipeline commanding phishing-site detection. MongoDB ingestion, KNN transformation, tuned scikit-learn classifiers, MLflow/DagsHub tracking, Dockerized, deployed via GitHub Actions to AWS ECR/EC2.
+
+`Python` `MLOps` `MLflow` `Docker` `AWS`
+
+[**→ inspect the dominion**](https://github.com/akkiyolo/networksecurity)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🟢 `Auto-Research-Scientist-Agent`
+An agent that hunts, extracts, and structures academic papers into disciplined intelligence reports — research, automated.
+
+`TypeScript` `Agents`
+
+[**→ inspect the dominion**](https://github.com/akkiyolo/Auto-Research-Scientist-Agent)
+
+</td>
+<td width="50%" valign="top">
+
+### 🟢 `video-wiki`
+A knowledge engine that transcribes YouTube and local media into flowing, Wikipedia-style editorial articles — powered by faster-whisper and Mistral.
+
+`Python` `faster-whisper` `Mistral`
+
+[**→ inspect the dominion**](https://github.com/akkiyolo/video-wiki)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `ls /arsenal/`
+## `> system_stats --render`
 
-```
-[drwxr-xr-x]  python/          [drwxr-xr-x]  langgraph/
-[drwxr-xr-x]  fastapi/         [drwxr-xr-x]  docker/
-[drwxr-xr-x]  aws/             [drwxr-xr-x]  github_actions/
-[drwxr-xr-x]  postgresql/      [drwxr-xr-x]  mongodb/
-[drwxr-xr-x]  mlflow/          [drwxr-xr-x]  groq/
-[drwxr-xr-x]  gemini/          [drwxr-xr-x]  mistral/
+```bash
+root@latveria:~$ ./fetch_stats.sh --theme=doom
 ```
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0B3D0B?style=flat-square&logo=python&logoColor=C0C0C0)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a3d1a?style=flat-square&logo=fastapi&logoColor=C0C0C0)
-![LangGraph](https://img.shields.io/badge/LangGraph-0B3D0B?style=flat-square&logo=langchain&logoColor=C0C0C0)
-![Docker](https://img.shields.io/badge/Docker-1a3d1a?style=flat-square&logo=docker&logoColor=C0C0C0)
-![AWS](https://img.shields.io/badge/AWS-0B3D0B?style=flat-square&logo=amazonaws&logoColor=C0C0C0)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a3d1a?style=flat-square&logo=githubactions&logoColor=C0C0C0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B3D0B?style=flat-square&logo=postgresql&logoColor=C0C0C0)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a3d1a?style=flat-square&logo=mongodb&logoColor=C0C0C0)
-![MLflow](https://img.shields.io/badge/MLflow-0B3D0B?style=flat-square&logo=mlflow&logoColor=C0C0C0)
-![Groq](https://img.shields.io/badge/Groq-1a3d1a?style=flat-square&logo=groq&logoColor=C0C0C0)
-![Gemini](https://img.shields.io/badge/Gemini-0B3D0B?style=flat-square&logo=google&logoColor=C0C0C0)
-![Mistral](https://img.shields.io/badge/Mistral-1a3d1a?style=flat-square&logo=mistralai&logoColor=C0C0C0)
+<img src="https://github-readme-stats.vercel.app/api?username=akkiyolo&show_icons=true&theme=dark&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=C0C0C0&border_color=1a3d1a&hide_border=false" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akkiyolo&theme=dark&background=000000&stroke=1a3d1a&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C0C0C0&dates=C0C0C0" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkiyolo&layout=compact&theme=dark&bg_color=000000&title_color=39FF14&text_color=C0C0C0&border_color=1a3d1a&hide_border=false" width="48%" />
 
 </div>
 
 ---
 
-## `find /conquered_territories -type d`
+## `> contribution_log --animate`
 
+```bash
+root@latveria:~$ render --graph=snake --color=doom-green
 ```
-/conquered_territories
-├── 01_agentic_blog_app
-├── 02_networksecurity
-├── 03_auto_research_scientist
-├── 04_video_wiki
-└── 05_whatsapp_persona
-```
-
----
-
-### `/conquered_territories/01_agentic_blog_app`
-
-```
-[ DOOMFILE ] agentic-blog-app
-[ STATUS ]   PRODUCTION-READY
-[ LINK ]     https://github.com/akkiyolo/Agentic-Blog-App
-
-> Doom does not blog. Doom commands the written word
-> to organize itself.
-```
-
-A production-grade FastAPI blog platform fortified with three autonomous agents: a LangGraph-powered draft assistant, an auto-tagging agent, and a Q&A agent. Asynchronous PostgreSQL backbone, JWT authentication, S3-backed media storage. A fortress, not a side project.
-
-```python
-stack = ["FastAPI", "LangGraph", "PostgreSQL", "AWS S3", "JWT"]
-```
-
----
-
-### `/conquered_territories/02_networksecurity`
-
-```
-[ DOOMFILE ] networksecurity
-[ STATUS ]   DEPLOYED
-[ LINK ]     https://github.com/akkiyolo/networksecurity
-
-> Doom does not detect phishers. Doom trains machines
-> to identify the weak, then deploys them.
-```
-
-An end-to-end MLOps pipeline for phishing URL detection — MongoDB ingestion, scikit-learn classifiers, MLflow + DagsHub experiment tracking, Docker containerization, and full AWS CI/CD deployment. From raw data to armored production.
-
-```python
-stack = ["Python", "scikit-learn", "MongoDB", "MLflow", "Docker", "AWS"]
-```
-
----
-
-### `/conquered_territories/03_auto_research_scientist`
-
-```
-[ DOOMFILE ] auto-research-scientist-agent
-[ STATUS ]   ACTIVE
-[ LINK ]     https://github.com/akkiyolo/Auto-Research-Scientist-Agent
-
-> Doom does not read papers. Doom dispatches agents
-> to digest knowledge on his behalf.
-```
-
-An autonomous agent that searches, extracts, and structures academic papers into usable intelligence. Built for those who would rather conquer literature than read it linearly.
-
-```python
-stack = ["Python", "LangGraph", "LLM"]
-```
-
----
-
-### `/conquered_territories/04_video_wiki`
-
-```
-[ DOOMFILE ] video-wiki
-[ STATUS ]   ACTIVE
-[ LINK ]     https://github.com/akkiyolo/video-wiki
-
-> Doom does not watch videos. Doom converts noise
-> into encyclopedias.
-```
-
-Transcribes YouTube and local media into Wikipedia-style articles using faster-whisper + Mistral. Speech into structure. Chaos into order.
-
-```python
-stack = ["Python", "faster-whisper", "Mistral"]
-```
-
----
-
-### `/conquered_territories/05_whatsapp_persona`
-
-```
-[ DOOMFILE ] whatsapp-persona-mistral-7b-finetuning
-[ STATUS ]   ARCHIVED
-[ LINK ]     https://github.com/akkiyolo/whatsapp-persona-mistral-7b-finetuning
-
-> Doom does not chat. Doom fine-tunes a 7-billion
-> parameter monarch to speak as himself.
-```
-
-A fine-tuned Mistral 7B model trained on WhatsApp chat data — crafting a conversational persona through the fires of supervised fine-tuning. Personality, weaponized.
-
-```python
-stack = ["Python", "Mistral", "HuggingFace"]
-```
-
----
-
-## `system_status --census`
 
 <div align="center">
 
-```
-+----------------------------------+ +----------------------------------+
-|        GITHUB STATISTICS         | |         CONTRIBUTION STREAK      |
-+----------------------------------+ +----------------------------------+
-```
-<img src="https://github-readme-stats.vercel.app/api?username=akkiyolo&show_icons=true&theme=chartreuse-dark&bg_color=0B3D0B&title_color=C0C0C0&text_color=C0C0C0&icon_color=C0C0C0&border_color=1a3d1a&hide_border=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akkiyolo&theme=chartreuse-dark&background=0B3D0B&stroke=C0C0C0&ring=C0C0C0&fire=1a3d1a&currStreakLabel=C0C0C0" alt="GitHub Streak" height="170"/>
-
-```
-+----------------------------------+
-|         TOP LANGUAGES            |
-+----------------------------------+
-```
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkiyolo&layout=compact&theme=chartreuse-dark&bg_color=0B3D0B&title_color=C0C0C0&text_color=C0C0C0&border_color=1a3d1a" alt="Top Languages" />
-
-```
-+----------------------------------+
-```
+![github-snake](https://raw.githubusercontent.com/akkiyolo/akkiyolo/output/github-snake-dark.svg)
 
 </div>
 
 ---
 
-## `tail -f ~/contributions.log`
+## `> establish_connection --protocol`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akkiyolo/akkiyolo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akkiyolo/akkiyolo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/akkiyolo/akkiyolo/output/github-snake-dark.svg" />
-</picture>
-
----
-
-## `ping throne`
-
-```
-[TRACEROUTE TO THE SOVEREIGN]
+```bash
+root@latveria:~$ ping the_throne
 ```
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B3D0B?style=flat-square&logo=vercel&logoColor=C0C0C0)](https://akkiyolo.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a3d1a?style=flat-square&logo=linkedin&logoColor=C0C0C0)](https://www.linkedin.com/in/akshat-shukla-63516225a/)
-[![X](https://img.shields.io/badge/X-0B3D0B?style=flat-square&logo=x&logoColor=C0C0C0)](https://x.com/akshatshukla069)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=39FF14)](https://akkiyolo.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/akshat-shukla-63516225a/)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=39FF14)](https://x.com/akshatshukla069)
 
 </div>
 
 ---
 
-```
-[ root@latveria:~ ]$ logout
-> Session terminated by sovereign decree.
-> "Doom does not iterate. Doom refines. Doom reigns."
-[ root@latveria:~ ]$ █
-```
-
 <div align="center">
 
+[![Profile Views](https://komarev.com/ghpvc/?username=akkiyolo&color=39FF14&style=flat-square&label=SUBJECTS+WHO+HAVE+VIEWED+THIS+PROFILE)](https://github.com/akkiyolo)
+
 ```
-VISITORS TO THE THRONE: 
+root@latveria:~$ shutdown -h now
+> "When Gotham is ashes, you have my permission to die." — akkiyolo
 ```
-![Profile Views](https://komarev.com/ghpvc/?username=akkiyolo&color=0B3D0B&style=flat-square)
 
 </div>
