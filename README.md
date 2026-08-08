@@ -101,10 +101,9 @@ root@latveria:~$ ./fetch_stats.sh --theme=doom
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akkiyolo&show_icons=true&theme=dark&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=C0C0C0&border_color=1a3d1a&hide_border=false" width="48%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akkiyolo&theme=dark&background=000000&stroke=1a3d1a&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C0C0C0&dates=C0C0C0" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkiyolo&layout=compact&theme=dark&bg_color=000000&title_color=39FF14&text_color=C0C0C0&border_color=1a3d1a&hide_border=false" width="48%" />
 
 </div>
 
