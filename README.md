@@ -88,28 +88,7 @@ End-to-end MLOps pipeline commanding phishing-site detection. MongoDB ingestion,
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🟢 `Auto-Research-Scientist-Agent`
-An agent that hunts, extracts, and structures academic papers into disciplined intelligence reports — research, automated.
-
-`TypeScript` `Agents`
-
-[**→ inspect the dominion**](https://github.com/akkiyolo/Auto-Research-Scientist-Agent)
-
-</td>
-<td width="50%" valign="top">
-
-### 🟢 `video-wiki`
-A knowledge engine that transcribes YouTube and local media into flowing, Wikipedia-style editorial articles — powered by faster-whisper and Mistral.
-
-`Python` `faster-whisper` `Mistral`
-
-[**→ inspect the dominion**](https://github.com/akkiyolo/video-wiki)
-
-</td>
-</tr>
 </table>
 
 ---
