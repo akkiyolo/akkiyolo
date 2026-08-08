@@ -70,7 +70,7 @@ root@latveria:~$ git log --oneline --domains
 <td width="50%" valign="top">
 
 ### 🟢 `Agentic-Blog-App`
-Production-grade FastAPI blog forged with three ruling agents — LangGraph draft assistant, auto-tagging, and post-level Q&A. Async PostgreSQL, JWT/Argon2 auth, S3 media, Alembic migrations.
+Production-grade FastAPI blog forged with three ruling agents , LangGraph draft assistant, auto-tagging, and post-level Q&A. Async PostgreSQL, JWT/Argon2 auth, S3 media, Alembic migrations, deployed on Render.
 
 `Python` `FastAPI` `LangGraph` `PostgreSQL` `AWS S3`
 
