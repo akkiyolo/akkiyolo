@@ -142,7 +142,7 @@ root@latveria:~$ ping the_social_life
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=akkiyolo&color=39FF24&style=flat-square&label=SUBJECTS+WHO+HAVE+VIEWED+THIS+PROFILE)](https://github.com/akkiyolo)
+[![Profile Views](https://komarev.com/ghpvc/?username=akkiyolo&color=39FF24&style=flat-square&label=Subjects+That+Viewed)](https://github.com/akkiyolo)
 
 ```
 root@latveria:~$ shutdown -h now
