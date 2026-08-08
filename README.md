@@ -39,7 +39,7 @@ root@latveria:~$ cat about.txt
 ## `> shit i deal with --list`
 
 ```bash
-root@latveria:~$ ls -la /doom/stack/
+root@latveria:~$ ls -la /stack
 ```
 
 <div align="center">
@@ -59,7 +59,7 @@ root@latveria:~$ ls -la /doom/stack/
 
 ---
 
-## `> conquered_territories --pinned`
+## `> trash i built --pinned`
 
 ```bash
 root@latveria:~$ git log --oneline --domains
