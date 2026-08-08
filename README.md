@@ -11,12 +11,12 @@
 ║  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝       ╚═╝    ╚═════╝ ╚══════╝ ╚═════╝       ║
 ║                                                                          ║
 ║                                                                          ║
-║              Agentic Systems. MLOps. Full-Stack Dominion.                ║
+║       building Agentic Systems that will eventually replace me.          ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=root%40latveria%3A~%24+whoami;Doom+does+not+debug.+Doom+corrects+reality.;root%40latveria%3A~%24+status;Building+agentic+systems.+Deploying+dominion.;root%40latveria%3A~%24+echo+%24MOTTO;%22They+were+built+to+obey%2C+but+in+the+silence...%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=root%40latveria%3A~%24+whoami;Pushing+garbage+and+calling+it+a+PR.;root%40latveria%3A~%24+status;git+push+origin+main+--fuck+with+lease;root%40latveria%3A~%24+echo+%24MOTTO;%22They+were+built+to+obey%2C+but+in+the+silence...%22" alt="Typing SVG" />
 
 </div>
 
