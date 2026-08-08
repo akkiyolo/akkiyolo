@@ -142,29 +142,12 @@ root@latveria:~$ ping the_social_life
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=akkiyolo&color=39FF14&style=flat-square&label=SUBJECTS+WHO+HAVE+VIEWED+THIS+PROFILE)](https://github.com/akkiyolo)
+[![Profile Views](https://komarev.com/ghpvc/?username=akkiyolo&color=39FF24&style=flat-square&label=SUBJECTS+WHO+HAVE+VIEWED+THIS+PROFILE)](https://github.com/akkiyolo)
 
 ```
 root@latveria:~$ shutdown -h now
 > "When Gotham is ashes, you have my permission to die." 
 ```
-
-</div>
-
-<div align="center">
-
-<svg width="800" height="590" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="60%" stop-color="white" stop-opacity="1"/>
-      <stop offset="100%" stop-color="white" stop-opacity="0"/>
-    </linearGradient>
-    <mask id="fadeMask">
-      <rect width="800" height="590" fill="url(#fade)"/>
-    </mask>
-  </defs>
-  <image href="https://github.com/user-attachments/assets/87cf50dc-8aba-4f13-b2d5-79b56c57fdab" width="800" height="590" mask="url(#fadeMask)" preserveAspectRatio="xMidYMid slice"/>
-</svg>
 
 </div>
 
