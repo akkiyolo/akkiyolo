@@ -142,11 +142,11 @@ root@latveria:~$ ping the_social_life
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=akkiyolo&color=39FF24&style=flat-square&label=Subjects+That+Viewed)](https://github.com/akkiyolo)
+[![Profile Views](https://komarev.com/ghpvc/?username=akkiyolo&color=39FF24&style=flat-square&label=Subjects+That+Viewed+Profile)](https://github.com/akkiyolo)
 
 ```
 root@latveria:~$ shutdown -h now
-> "When Gotham is ashes, you have my permission to die." 
+>        "When Gotham is ashes, you have my permission to die." 
 ```
 
 </div>
