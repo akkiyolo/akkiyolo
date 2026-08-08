@@ -174,17 +174,26 @@ root@latveria:~$ shutdown -h now
 
 <div align="center">
 
-<svg width="800" height="590" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="380" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="60%" stop-color="white" stop-opacity="1"/>
+      <stop offset="45%" stop-color="white" stop-opacity="1"/>
       <stop offset="100%" stop-color="white" stop-opacity="0"/>
     </linearGradient>
     <mask id="fadeMask">
-      <rect width="800" height="590" fill="url(#fade)"/>
+      <rect width="900" height="380" fill="url(#fade)"/>
     </mask>
   </defs>
-  <image href="https://github.com/user-attachments/assets/87cf50dc-8aba-4f13-b2d5-79b56c57fdab" width="800" height="590" mask="url(#fadeMask)" preserveAspectRatio="xMidYMid slice"/>
+
+  <rect width="900" height="380" fill="#000000"/>
+  <image href="https://raw.githubusercontent.com/akkiyolo/akkiyolo/main/github-header.png"
+         x="150" y="-40" width="600" height="450"
+         mask="url(#fadeMask)" preserveAspectRatio="xMidYMid slice"/>
+
+  <text x="450" y="330" font-family="Fira Code, monospace" font-size="34" font-weight="bold"
+        fill="#39FF14" text-anchor="middle">AKKI YOLO</text>
+  <text x="450" y="360" font-family="Fira Code, monospace" font-size="14"
+        fill="#C0C0C0" text-anchor="middle" opacity="0.8">SOVEREIGN OF LATVERIA · DOOM KERNEL BUILD</text>
 </svg>
 
 </div>
