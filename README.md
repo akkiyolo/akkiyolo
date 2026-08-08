@@ -30,9 +30,9 @@
 root@latveria:~$ cat about.txt
 ```
 
-> Final-year CS undergrad. Building toward a **Forward Deployed AI Engineer** role.
+> Computer Science Undergrad.
 > Ruler of my own stack — agentic AI systems, MLOps pipelines, full-stack backend engineering.
-> Doom does not ask permission. Doom ships.
+> Pushing garbage and calling it a PR.
 
 ---
 
