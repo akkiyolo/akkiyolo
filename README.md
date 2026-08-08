@@ -31,8 +31,6 @@ root@latveria:~$ cat about.txt
 ```
 
 > Computer Science Undergrad.
-> Ruler of my own stack — agentic AI systems, MLOps pipelines, full-stack backend engineering.
-> Pushing garbage and calling it a PR.
 
 ---
 
