@@ -127,7 +127,7 @@ root@latveria:~$ render --graph=snake --color=doom-green
 ## `> establish_connection --protocol`
 
 ```bash
-root@latveria:~$ ping the_throne
+root@latveria:~$ ping the_social_life
 ```
 
 <div align="center">
