@@ -42,16 +42,16 @@ root@latveria:~$ ls -la /stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge\&logo=python\&logoColor=39FF14)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge\&logo=fastapi\&logoColor=39FF14)
-![LangGraph](https://img.shields.io/badge/-LangGraph-000000?style=for-the-badge\&logo=langchain\&logoColor=39FF14)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge\&logo=docker\&logoColor=39FF14)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge\&logo=amazonaws\&logoColor=39FF14)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge\&logo=postgresql\&logoColor=39FF14)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000000?style=for-the-badge\&logo=githubactions\&logoColor=39FF14)
-![Groq](https://img.shields.io/badge/-Groq-000000?style=for-the-badge\&logoColor=39FF14)
-![Gemini](https://img.shields.io/badge/-Gemini-000000?style=for-the-badge\&logo=googlegemini\&logoColor=39FF14)
-![Mistral](https://img.shields.io/badge/-Mistral-000000?style=for-the-badge\&logo=mistralai\&logoColor=39FF14)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14)
+![LangGraph](https://img.shields.io/badge/-LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=39FF14)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=39FF14)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=39FF14)
+![Groq](https://img.shields.io/badge/-Groq-000000?style=for-the-badge&logoColor=39FF14)
+![Gemini](https://img.shields.io/badge/-Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=39FF14)
+![Mistral](https://img.shields.io/badge/-Mistral-000000?style=for-the-badge&logo=mistralai&logoColor=39FF14)
 
 </div>
 
@@ -65,7 +65,7 @@ root@latveria:~$ git log --oneline --domains
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🟢 `Agentic-Blog-App`
 
@@ -76,8 +76,7 @@ Production-grade FastAPI blog forged with three ruling agents, LangGraph draft a
 **→ [inspect the dominion](https://github.com/akkiyolo/Agentic-Blog-App)**
 
 </td>
-
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🟢 `networksecurity`
 
@@ -88,12 +87,11 @@ End-to-end MLOps pipeline commanding phishing-site detection. MongoDB ingestion,
 **→ [inspect the dominion](https://github.com/akkiyolo/networksecurity)**
 
 </td>
-
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🟢 `VisaApproval`
 
-VisaApproval is an end-to-end MLOps pipeline that predicts US visa approval using machine learning, with automated data processing, model evaluation, MLflow/DAGsHub experiment tracking, AWS S3 model storage, and FastAPI deployment on Render
+End-to-end MLOps pipeline that predicts US visa approval, with automated data processing, model evaluation, MLflow/DAGsHub experiment tracking, AWS S3 model storage, and FastAPI deployment on Render.
 
 `Python` `MLOps` `MLflow` `Docker` `AWS`
 
@@ -141,11 +139,11 @@ root@latveria:~$ ping the_social_life
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=39FF14)](https://akki-porfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=39FF14)](https://akki-porfolio.vercel.app/)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=39FF14)](https://www.linkedin.com/in/akshat-shukla-63516225a/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/akshat-shukla-63516225a/)
 
-[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge\&logo=x\&logoColor=39FF14)](https://x.com/akshatshukla069)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=39FF14)](https://x.com/akshatshukla069)
 
 </div>
 
@@ -153,7 +151,7 @@ root@latveria:~$ ping the_social_life
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=akkiyolo\&color=39FF24\&style=flat-square\&label=Subjects+That+Viewed+Profile)](https://github.com/akkiyolo)
+[![Profile Views](https://komarev.com/ghpvc/?username=akkiyolo&color=39FF24&style=flat-square&label=Subjects+That+Viewed+Profile)](https://github.com/akkiyolo)
 
 ```text
 root@latveria:~$ shutdown -h now
