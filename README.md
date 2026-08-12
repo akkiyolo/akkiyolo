@@ -88,6 +88,18 @@ End-to-end MLOps pipeline commanding phishing-site detection. MongoDB ingestion,
 **→ [inspect the dominion](https://github.com/akkiyolo/networksecurity)**
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🟢 `VisaApproval`
+
+VisaApproval is an end-to-end MLOps pipeline that predicts US visa approval using machine learning, with automated data processing, model evaluation, MLflow/DAGsHub experiment tracking, AWS S3 model storage, and FastAPI deployment on Render
+
+`Python` `MLOps` `MLflow` `Docker` `AWS`
+
+**→ [inspect the dominion](https://github.com/akkiyolo/VisaApproval)**
+
+</td>
 </tr>
 </table>
 
