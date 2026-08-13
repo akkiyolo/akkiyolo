@@ -34,7 +34,7 @@ root@latveria:~$ cat about.txt
 
 ---
 
-## `> shit i deal with --list`
+## `> i deal with --list`
 
 ```bash
 root@latveria:~$ ls -la /stack
@@ -57,7 +57,7 @@ root@latveria:~$ ls -la /stack
 
 ---
 
-## `> trash i built --pinned`
+## `> i built --pinned`
 
 ```bash
 root@latveria:~$ git log --oneline --domains
@@ -155,7 +155,7 @@ root@latveria:~$ ping the_social_life
 
 ```text
 root@latveria:~$ shutdown -h now
-> "if it works on my machine, fuck everyone else"
+> "if it works on my machine, it might work as well on yours"
 ```
 
 </div>
