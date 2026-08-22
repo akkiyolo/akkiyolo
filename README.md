@@ -50,24 +50,6 @@ root@latveria:~$ render --graph=snake --color=doom-green
 
 ---
 
-## `> establish_connection --protocol`
-
-```bash
-root@latveria:~$ ping the_social_life
-```
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=39FF14)](https://akki-porfolio.vercel.app/)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/akshat-shukla-63516225a/)
-
-[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=39FF14)](https://x.com/akshatshukla069)
-
-</div>
-
----
-
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=akkiyolo&color=39FF24&style=flat-square&label=Subjects+That+Viewed+Profile)](https://github.com/akkiyolo)
