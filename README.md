@@ -57,52 +57,6 @@ root@latveria:~$ ls -la /stack
 
 ---
 
-## `> i built --pinned`
-
-```bash
-root@latveria:~$ git log --oneline --domains
-```
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🟢 `Agentic-Blog-App`
-
-Production-grade FastAPI blog forged with three ruling agents, LangGraph draft assistant, auto-tagging, and post-level Q&A. Async PostgreSQL, JWT/Argon2 auth, S3 media, Alembic migrations, deployed on Render.
-
-`Python` `FastAPI` `LangGraph` `PostgreSQL` `AWS S3`
-
-**→ [inspect the dominion](https://github.com/akkiyolo/Agentic-Blog-App)**
-
-</td>
-<td width="33%" valign="top">
-
-### 🟢 `networksecurity`
-
-End-to-end MLOps pipeline commanding phishing-site detection. MongoDB ingestion, KNN transformation, tuned scikit-learn classifiers, MLflow/DagsHub tracking, Dockerized, deployed via GitHub Actions to AWS ECR/EC2.
-
-`Python` `MLOps` `MLflow` `Docker` `AWS`
-
-**→ [inspect the dominion](https://github.com/akkiyolo/networksecurity)**
-
-</td>
-<td width="33%" valign="top">
-
-### 🟢 `VisaApproval`
-
-End-to-end MLOps pipeline that predicts US visa approval, with automated data processing, model evaluation, MLflow/DAGsHub experiment tracking, AWS S3 model storage, and FastAPI deployment on Render.
-
-`Python` `MLOps` `MLflow` `Docker` `AWS`
-
-**→ [inspect the dominion](https://github.com/akkiyolo/VisaApproval)**
-
-</td>
-</tr>
-</table>
-
----
-
 ## `> system_stats --render`
 
 ```bash
