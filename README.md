@@ -32,14 +32,6 @@ root@latveria:~$ cat about.txt
 
 ---
 
----
-
-## `> contribution_log --animate`
-
-```bash
-root@latveria:~$ render --graph=snake --color=doom-green
-```
-
 <div align="center">
 
 ![github-snake](https://raw.githubusercontent.com/akkiyolo/akkiyolo/output/github-snake-dark.svg)
