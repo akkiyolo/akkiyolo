@@ -57,7 +57,7 @@ root@latveria:~$ ls -la /stack
 
 ---
 
-## `> i built --pinne`
+## `> i built --pinned`
 
 ```bash
 root@latveria:~$ git log --oneline --domains
