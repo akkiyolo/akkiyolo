@@ -34,41 +34,6 @@ root@latveria:~$ cat about.txt
 
 ---
 
-## `> i deal with --list`
-
-```bash
-root@latveria:~$ ls -la /stack
-```
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14)
-![LangGraph](https://img.shields.io/badge/-LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=39FF14)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=39FF14)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=39FF14)
-![Groq](https://img.shields.io/badge/-Groq-000000?style=for-the-badge&logoColor=39FF14)
-![Gemini](https://img.shields.io/badge/-Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=39FF14)
-![Mistral](https://img.shields.io/badge/-Mistral-000000?style=for-the-badge&logo=mistralai&logoColor=39FF14)
-
-</div>
-
----
-
-## `> system_stats --render`
-
-```bash
-root@latveria:~$ ./fetch_stats.sh --theme=doom
-```
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akkiyolo&theme=dark&background=000000&stroke=1a3d1a&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C0C0C0&dates=C0C0C0" width="48%" />
-
-</div>
-
 ---
 
 ## `> contribution_log --animate`
@@ -109,7 +74,7 @@ root@latveria:~$ ping the_social_life
 
 ```text
 root@latveria:~$ shutdown -h now
-> "if it works on my machine, it might work as well on yours"
+> "if it works on my machine, it might work on yours as well"
 ```
 
 </div>
