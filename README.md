@@ -1,4 +1,4 @@
-# Hi, I'm Akki 👋
+### Hi, I'm Akki 
 
 I'm an AI/ML Engineer building intelligent systems and turning AI research into practical products.
 
@@ -6,7 +6,7 @@ My work focuses on large language models (LLMs), deep learning, AI architectures
 
 I enjoy understanding how things work under the hood, building systems from scratch, and experimenting with ideas that push AI beyond simple demos.
 
-## Links
+#### Links
 
 - GitHub: [akkiyolo](https://github.com/akkiyolo)
 - LinkedIn: [AkshatShukla](https://www.linkedin.com/in/akshat-shukla-63516225a/)
