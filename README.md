@@ -11,6 +11,7 @@ I enjoy understanding how things work under the hood, building systems from scra
 - GitHub: [akkiyolo](https://github.com/akkiyolo)
 - LinkedIn: [AkshatShukla](https://www.linkedin.com/in/akshat-shukla-63516225a/)
 - Portfolio: [akki-portfolio.vercel.app](https://akki-porfolio.vercel.app/)
+- Blog: [akki-blog.onrender.com](https://akki-blog.onrender.com/)
 
 ---
 
