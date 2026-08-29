@@ -1,34 +1,16 @@
-<div align="center">
+# Hi, I'm Akki 👋
 
-```text
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   █████╗ ██╗  ██╗██╗  ██╗██╗    ██╗   ██╗ ██████╗ ██╗      ██████╗       ║
-║  ██╔══██╗██║ ██╔╝██║ ██╔╝██║    ╚██╗ ██╔╝██╔═══██╗██║     ██╔═══██╗      ║
-║  ███████║█████╔╝ █████╔╝ ██║     ╚████╔╝ ██║   ██║██║     ██║   ██║      ║
-║  ██╔══██║██╔═██╗ ██╔═██╗ ██║      ╚██╔╝  ██║   ██║██║     ██║   ██║      ║
-║  ██║  ██║██║  ██╗██║  ██╗██║       ██║   ╚██████╔╝███████╗╚██████╔╝      ║
-║  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝       ╚═╝    ╚═════╝ ╚══════╝ ╚═════╝       ║
-║                                                                          ║
-║                                                                          ║
-║       building Agentic Systems that will eventually replace me.          ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+I'm an AI/ML Engineer building intelligent systems and turning AI research into practical products.
 
-</div>
+My work focuses on large language models (LLMs), deep learning, AI architectures, retrieval-augmented generation (RAG), agentic AI, and machine learning systems.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge" height="4"/>
-</p>
+I enjoy understanding how things work under the hood, building systems from scratch, and experimenting with ideas that push AI beyond simple demos.
 
-## `> whoami`
+## Links
 
-```bash
-root@latveria:~$ cat about.txt
-```
-
-> Computer Science Undergrad | Wanna be AI/ML engineer
+- GitHub: [akkiyolo](https://github.com/YOUR_USERNAME)
+- LinkedIn: [AkshatShukla](https://www.linkedin.com/in/akshat-shukla-63516225a/)
+- Portfolio: [yourwebsite.com](https://akki-porfolio.vercel.app/)
 
 ---
 
@@ -38,15 +20,5 @@ root@latveria:~$ cat about.txt
 
 </div>
 
----
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=akkiyolo&color=39FF24&style=flat-square&label=Subjects+That+Viewed+Profile)](https://github.com/akkiyolo)
-
-```text
-root@latveria:~$ shutdown -h now
-> "if it works on my machine, it might work on yours as well"
-```
 
 </div>
