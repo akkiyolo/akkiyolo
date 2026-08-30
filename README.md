@@ -17,7 +17,7 @@ I enjoy understanding how things work under the hood, building systems from scra
 
 <div align="center">
 
-### Careful... there's a snake down here.
+### Careful.... there's a snake down here.
 
 ![github-snake](https://raw.githubusercontent.com/akkiyolo/akkiyolo/output/github-snake-dark.svg)
 
