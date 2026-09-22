@@ -24,11 +24,3 @@ I enjoy understanding how things work under the hood, building systems from scra
 </div>
 
 ---
-
-## 🌆 3D Isometric Contribution Calendar
-
-<p align="center">
-  <img src="github-metrics.svg" alt="Akki's 3D Contribution Calendar" width="100%" />
-</p>
-
----
