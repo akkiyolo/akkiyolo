@@ -15,15 +15,5 @@ I enjoy understanding how things work under the hood, building systems from scra
 
 ---
 
-<div align="center">
-
-### Careful.... there's a snake down here.
-
-![github-snake](https://raw.githubusercontent.com/akkiyolo/akkiyolo/output/github-snake-dark.svg)
-
-</div>
-
----
-
 ### 🌐 3D Contribution Graph
 ![3D contribution graph](https://raw.githubusercontent.com/akkiyolo/akkiyolo/main/profile-3d-contrib/profile-night-green.svg)
