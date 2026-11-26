@@ -15,6 +15,5 @@ I enjoy understanding how things work under the hood, building systems from scra
 
 ---
 
-<div align="center">
 
 
